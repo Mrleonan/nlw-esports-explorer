@@ -69,7 +69,7 @@ section div {
 body {
   background-image: url(./assets/bg.gif);
   background-position: top center;
-  background-size: 100% 100vh;
+  background-size: 300vh 120vh;
   background-repeat: no-repeat;
   animation: frombottom 2s .1s backwards;
 }
@@ -124,7 +124,6 @@ main {
   
   max-width: 580px;
   width: 90%;
-  max-height: 264px;
   margin: 32px auto;
   display: grid;
   gap: 24px; 
