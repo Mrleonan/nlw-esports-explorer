@@ -63,13 +63,14 @@ section div {
   padding-top: 24px;
   border-radius: 40px;
   border: 0.1px inset #121214;
-  box-shadow: inset 10px 15px 20px #0000008c; 
+  box-shadow: inset 10px 15px 20px #0000008c;
   } 
 
 body {
   background-image: url(./assets/bg.gif);
   background-position: top center;
-  background-size: 300vh 120vh;
+  background-size: 200vh 100%;
+  background-attachment: fixed;
   background-repeat: no-repeat;
   animation: frombottom 2s .1s backwards;
 }
