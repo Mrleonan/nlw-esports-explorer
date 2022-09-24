@@ -70,6 +70,7 @@ body {
   background-image: url(./assets/bg.gif);
   background-position: top center;
   background-size: 300vh 120vh;
+  background-attachment: fixed;
   background-repeat: no-repeat;
   animation: frombottom 2s .1s backwards;
 }
